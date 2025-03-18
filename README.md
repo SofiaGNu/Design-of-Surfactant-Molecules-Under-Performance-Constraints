@@ -1,5 +1,5 @@
 # Design-of-Surfactant-Molecules-Under-Performance-Constraints
-This repository includes the data and models developed to ensure the reproducibility of the results presented in the paper. The "properties_prediction" script allows the application of these models to any molecule represented by its SMILES notation.
+This repository includes the data and models developed to ensure the reproducibility of the results presented in the paper. The "property_predictor" script allows the application of these models to any molecule represented by its SMILES notation.
 
 The heads and tails are provided as pickle files, available both as bond matrices and in SMILES notation. The final surfactant structures are also shared in SMILES format.
 Each property prediction model is stored in two files:
