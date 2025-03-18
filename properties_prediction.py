@@ -1,6 +1,5 @@
 #%%
 # -*- coding: utf-8 -*-
-from math import sqrt
 import joblib
 from mordred import Calculator, descriptors
 from rdkit import Chem
